@@ -17,7 +17,7 @@ import org.koushik.javabrains.messenger10.model.Message;
 import org.koushik.javabrains.messenger10.service.MessageService;
 
 /**
- * REST Web Services 22 - Pagination and Filtering
+ * REST Web Services 23 - The Param Annotations
  * POST http://localhost:8080/messenger10/webapi/messages {"author":"koushik","id":3,"message":"Hello World 2"}
  * http://localhost:8080/messenger10/webapi/messages
  * http://localhost:8080/messenger10/webapi/messages/1

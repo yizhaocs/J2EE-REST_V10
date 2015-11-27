@@ -9,6 +9,10 @@ import javax.ws.rs.Path;
 import javax.ws.rs.Produces;
 import javax.ws.rs.core.MediaType;
 
+/*
+ * REST Web Services 23 - The Param Annotations
+ * http://localhost:8080/messenger10/webapi/injectdemo/annotations;param=value
+ * */
 @Path("/injectdemo")
 @Consumes(MediaType.TEXT_PLAIN)
 @Produces(MediaType.TEXT_PLAIN)
